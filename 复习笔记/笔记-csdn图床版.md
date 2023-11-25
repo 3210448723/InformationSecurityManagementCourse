@@ -90,7 +90,7 @@
 
 #### 关系
 
-![image-20231120095014820](assets/image-20231120095014820.png)
+![image-20231120095014820](https://img-blog.csdnimg.cn/c42cd9a523174bff9c1b6fb51209f291.jpeg)
 
 1. **威胁**利用**脆弱点**将导致**风险**的产生；
 2. **资产**具有价值，并对组织业务有一定的影响，资产价值及影响越大则其面临的**风险**越大；
@@ -116,7 +116,7 @@
 
 #### 流程
 
-![image-20231117171004699](assets/image-20231117171004699.png)
+![image-20231117171004699](https://img-blog.csdnimg.cn/67f6cf805023491fad1cc1339f370d32.jpeg)
 
 1. 风险评估**准备**阶段
 2. **资产**识别与评估
@@ -208,19 +208,19 @@ Business Continuity Management，业务连续性管理是对机构或组织的**
 
 ### 等保建设与整改完全实施流程
 
-![image-20231117185427053](assets/image-20231117185427053.png)
+![image-20231117185427053](https://img-blog.csdnimg.cn/fbbcafc02eca45ad89964eef19462c74.jpeg)
 
 ### 定级要素与安保等级关系
 
-![image-20231117185316428](assets/image-20231117185316428.png)
+![image-20231117185316428](https://img-blog.csdnimg.cn/54bdb43412064529a391d4ef8d431461.jpeg)
 
 ### 十大核心标准
 
-![image-20231117185201667](assets/image-20231117185201667.png)
+![image-20231117185201667](https://img-blog.csdnimg.cn/944c2d25d2594f3a8ecdd16253ee05cf.jpeg)
 
 ### 流程图
 
-![image-20231117185008130](assets/image-20231117185008130.png)
+![image-20231117185008130](https://img-blog.csdnimg.cn/e2249eb2615c47349e5aba2e395450a4.jpeg)
 
 # 易错题
 
